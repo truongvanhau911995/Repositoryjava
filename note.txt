@@ -1,0 +1,12 @@
+javac -J-Dfile.encoding=UTF-8 batchLayout.java
+java -Dfile.encoding=UTF-8 -classpath . batchLayout
+pause>nul|set/p =any key to exit ...
+
+set utf8
+https://stackoverflow.com/questions/361975/setting-the-default-java-character-encoding/623036#623036
+https://stackoverflow.com/questions/361975/setting-the-default-java-character-encoding/623036#623036
+https://stackoverflow.com/questions/47943780/javac-does-not-output-unicode-on-command-line
+
+Executing batch file error: “Could not find or load main class”
+https://stackoverflow.com/questions/7485670/error-could-not-find-or-load-main-class
+https://stackoverflow.com/questions/39899609/executing-batch-file-error-could-not-find-or-load-main-class
